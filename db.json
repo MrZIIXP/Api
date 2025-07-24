@@ -1,12 +1,4 @@
 {
-	"users": [
-		{
-			"name": "John Doe",
-			"email": "dfsdsfds@rmail.com",
-			"info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-			"id": 1,
-			"status": false
-		}
-	],
+	"users": [],
 	"chats": []
 }
