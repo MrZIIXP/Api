@@ -1,4 +1,13 @@
 {
 	"users": [],
-	"chats": []
+	"chats": [
+  {
+    "id": 1,
+    "name": "Иван Иванов",
+    "message": "Привет!",
+    "avatar": "https://i.pravatar.cc/40?img=12",
+    "time": "12:00"
+  }
+]
+
 }
